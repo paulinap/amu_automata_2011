@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * 
  */
-public class AutomatonUtilities {
+public final class AutomatonUtilities {
 
     private AutomatonUtilities() {
     }
